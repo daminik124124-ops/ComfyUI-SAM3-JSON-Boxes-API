@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-sam3-json-boxes-api"
+description = "ComfyUI helper node that converts JSON rectangle regions into SAM3_BOXES_PROMPT for ComfyUI-SAM3."
+version = "1.0.0"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/daminik124124-ops/ComfyUI-SAM3-JSON-Boxes-API"
+
+[tool.comfy]
+PublisherId = "dominik124421"
+DisplayName = "ComfyUI SAM3 JSON Boxes API"
+Icon = ""
